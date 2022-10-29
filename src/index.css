@@ -1,13 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish&family=Poppins&display=swap");
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Mulish";
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.clock {
+  font-size: 10rem;
+  font-family: "Mulish" !important;
+}
+.trade-nav{
+  border-radius: 0.2rem;
+  background-color:#001253 ;
+  color: white;
 }
